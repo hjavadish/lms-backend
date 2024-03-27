@@ -1,7 +1,6 @@
 ## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
+This LMS (Learning Management System) aims to make coaching and mentoring services easier and more accessible.  
+Check the [MVP](/docs/mvp.md) feature list for more information and to stay updated on the progress 
 ## Installation
 
 ```bash
